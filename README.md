@@ -1,6 +1,9 @@
-My_First_Repo
+Php Mail Function
 =============
+Send Email Function
 
-Repo
+Hi this is pure php mail function you can directly use it by adding it in your php script.
 
-Hi this is my first repo.
+and its really easy to use.
+
+Warning - It is not sending attachments its only used to send simple mails(without attachments).
