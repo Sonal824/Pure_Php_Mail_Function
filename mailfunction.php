@@ -23,7 +23,7 @@ function SendEmail($to,$from,$subject,$content)
 			return false;
 }
 
-$result  = SendEmail('email@gmail.com','sona@sona.com','Cron Job Amazon Test','This is Html.. Ha Ha Ha');
+$result  = SendEmail('email@gmail.com','sona@sona.com','Cron Job Amazon Test','123');
 
 echo $result ; 
 /*-------------------- FUNCTIONS  END----------------------------*/
